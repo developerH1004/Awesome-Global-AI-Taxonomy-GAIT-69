@@ -123,7 +123,7 @@ To cite this framework in academic or industrial reports, please use the followi
 > month = {May},
 > version = {1.0},
 > doi = {10.5281/zenodo.20248631},
-> url = {[https://doi.org/10.5281/zenodo.20248631](https://doi.org/10.5281/zenodo.20248631)}
+> url = {[https://doi.org/10.5281/zenodo.20248631]}
 > }
 
 ---
