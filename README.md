@@ -116,13 +116,16 @@ Below is the official mapping table of GAIT 69, preserving the precise original 
 
 To cite this framework in academic or industrial reports, please use the following official metadata:
 
-```bibtex
-@whitepaper{gait69_2026,
+<pre><code>@whitepaper{gait69_2026,
   author    = {Kim, Do Hun},
   title     = {GAIT 69: Global AI Index Taxonomy - The Comprehensive 13 Main and 69 Subcategories of the Global AI Ecosystem},
   year      = {2026},
   month     = {May},
   version   = {1.0},
   doi       = {10.5281/zenodo.20248631},
-  url       = {[https://doi.org/10.5281/zenodo.20248631](https://doi.org/10.5281/zenodo.20248631)}
-}
+  url       = {https://doi.org/10.5281/zenodo.20248631}
+}</code></pre>
+
+---
+
+> Maintained under strict data-integrity principles. For interface and real-time engine search, visit the [GAIT 69 Live Directory](https://ai-engine-app.vercel.app/).
