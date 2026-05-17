@@ -115,6 +115,7 @@ Below is the official mapping table of GAIT 69, preserving the precise original 
 * **Investment Due Diligence:** Facilitates highly accurate, sector-based portfolio management and target screening in the modern AI economy.
 
 To cite this framework in academic or industrial reports, please use the following official metadata:
+
 ```bibtex
 @whitepaper{gait69_2026,
   author    = {Kim, Do Hun},
