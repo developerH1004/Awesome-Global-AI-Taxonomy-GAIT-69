@@ -16,22 +16,22 @@ Welcome to the official repository for **GAIT 69 (Global AI Index Taxonomy 69)**
 
 ---
 
-## 🏛️ Comprehensive Architecture (13 Macro Categories)
+## 🏛️ Comprehensive Architecture (The 13 Main Categories)
 This structural blueprint acts as the "Periodic Table" for the AI era, mitigating information asymmetry for developers, investors, and researchers worldwide.
 
-1. **Foundation Models & Core Infrastructure** (기반 모델 및 핵심 인프라)
-2. **Natural Language Processing & Text Intelligence** (자연어 처리 및 텍스트 지능)
-3. **Computer Vision & Spatial Intelligence** (컴퓨터 비전 및 공간 지능)
-4. **Audio, Speech & Acoustic Intelligence** (오디오, 음성 및 음향 지능)
-5. **Multimodal Systems & Generative Media** (멀티모달 시스템 및 생성형 미디어)
-6. **Data Engineering & AI Development Lifecycle** (데이터 엔지니어링 및 AI 개발 라이프사이클)
-7. **Enterprise Operations & Business Intelligence** (기업 운영 및 비즈니스 인텔리전스)
-8. **Vertical Industry Solutions & Domain-Specific AI** (수직 산업 솔루션 및 도메인 특화 AI)
-9. **Autonomous Systems & Robotics Engineering** (자율 시스템 및 로보틱스 엔지니어링)
-10. **AI Safety, Governance & Ethics Infrastructure** (AI 안전, 거버넌스 및 윤리 인프라)
-11. **Hardware Acceleration & Edge Computing** (하드웨어 가속 및 엣지 컴퓨팅)
-12. **Decentralized AI & Web3 Integration** (탈중앙화 AI 및 Web3 통합)
-13. **Next-Generation Frontiers & Quantum AI** (차세대 프론티어 및 양자 AI)
+1. **Foundation Models (FM)** [파운데이션 모델]
+2. **Search & Knowledge Discovery** [검색·지식 탐구]
+3. **Visual Art & Generative Design** [비주얼 아트·디자인]
+4. **Video & Motion Synthesis** [영상·모션 그래픽]
+5. **Audio & Music Generation** [오디오·음악]
+6. **Development & LCNC Builders** [노코드/로우코드 및 개발]
+7. **Conversational AI & Agents** [커뮤니케이션 및 챗봇]
+8. **Business & Productivity Automation** [업무 생산성 및 비즈니스]
+9. **Marketing & Sales AI** [마케팅 및 세일즈]
+10. **Education & Academic** [교육 및 학술 (에듀테크)]
+11. **High-End Vertical AI** [고급 산업 특화 (버티컬) AI]
+12. **Industrial AI & Robotics** [산업용 AI 및 로보틱스 (스마트팩토리)]
+13. **AI Infrastructure & Sovereign Cloud** [AI 인프라 및 소버린 클라우드/보안]
 
 *(To explore the full 69 micro-classifications and individual mappings of thousands of vetted AI engines, please access the Live App or download the official Whitepaper via Zenodo.)*
 
