@@ -105,7 +105,6 @@ Below is the official mapping table of GAIT 69, preserving the precise original 
 | 13-02 | MLOps, Model Serving & Data Ops | MLOps 및 모델 서빙 플랫폼 |
 | 13-03 | Cybersecurity & Threat Detection | 사이버 보안 및 위협 탐지 |
 | 13-04 | Sovereign AI & Private Cloud | 소버린 AI 및 프라이빗 클라우드 |
-
 ---
 
 ## 🏛️ Strategic Significance & Citation
