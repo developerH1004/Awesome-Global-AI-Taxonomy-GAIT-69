@@ -4,6 +4,7 @@
 [![Vercel Deployment](https://img.shields.io/badge/vercel-deployed-black?style=flat-square&logo=vercel)](https://vercel.com)
 [![Supabase Database](https://img.shields.io/badge/Database-Supabase-00C58E?style=flat-square&logo=supabase)](https://supabase.com)
 [![Main Engine App](https://img.shields.io/badge/Core_App-ai--engine--app-181717?style=flat-square&logo=github)](https://github.com/developerH1004/ai-engine-app)
+[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20248631-blue?style=flat-square)](https://zenodo.org/records/20248631)
 [![Gumroad License](https://img.shields.io/badge/Buy_on-Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](http://developerh.gumroad.com/l/gait69)
 
 ---
