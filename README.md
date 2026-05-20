@@ -3,7 +3,7 @@
 
 [![Vercel Deployment](https://img.shields.io/badge/vercel-deployed-black?style=flat-square&logo=vercel)](https://vercel.com)
 [![Supabase Database](https://img.shields.io/badge/Database-Supabase-00C58E?style=flat-square&logo=supabase)](https://supabase.com)
-[![Gumroad License](https://img.shields.io/badge/Buy_on-Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](http://developerh.gumroad.com/I/gait69)
+[![Gumroad License](https://img.shields.io/badge/Buy_on-Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](http://developerh.gumroad.com/l/gait69)
 
 ---
 
