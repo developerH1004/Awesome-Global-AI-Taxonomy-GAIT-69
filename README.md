@@ -40,4 +40,4 @@ GAIT 69 is an advanced, production-ready AI Hub application providing precise ar
 
 Access the complete enterprise database, comparison modules, and full-scale analytics immediately via our commercial distributor:
 
-👉 **[Get Full Access on Gumroad (GAIT 69 Application)](http://developerh.gumroad.com/I/gait69)**
+👉 **[Get Full Access on Gumroad (GAIT 69 Application)](http://developerh.gumroad.com/l/gait69)**
